@@ -33,7 +33,7 @@ Basic Swiper Styles
 .swiper-wrapper {
 	position:absolute;
 	width:100%;
-	top: -56%;
+	top: -69%;
 	left: -50px;
 	-webkit-transition-property:-webkit-transform, left, top;
 	-webkit-transition-duration:0s;
